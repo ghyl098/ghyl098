@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Ghyalpo Lama 👋
 
-<!--
-**ghyl098/ghyl098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BIT Student | Aspiring Full-Stack Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+Hey! I'm Ghyalpo, a BIT student from Kathmandu, Nepal. I enjoy building websites and applications, learning new technologies, and designing simple and user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring both frontend and backend development while improving my UI/UX design skills.
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Studying Bachelor of Information Technology (BIT)
+* 💻 Aspiring Full-Stack Developer
+* 🎨 UI/UX Designer
+* 🌱 Currently learning React, Next.js, Django & REST APIs
+* 🐍 Learning and building with Python
+* 🎨 Using Figma for UI/UX design
+* 📍 Kathmandu, Nepal
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+
+**Backend**
+
+* Python
+* Django
+* Django REST Framework
+
+**Database**
+
+* MySQL
+* SQLite
+
+**Design & Tools**
+
+* Figma
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📂 Projects
+
+I'm working on different projects to improve my development and design skills.
+
+More projects will be added here as I build them. 🚀
+
+---
+
+## 🎯 What I'm Learning
+
+* Full-Stack Web Development
+* React & Next.js
+* Django & REST APIs
+* UI/UX Design
+* Building real-world projects
+
+---
+
+## 📫 Let's Connect
+
+* GitHub: [@ghyl098](https://github.com/ghyl098)
+* 📍 Kathmandu, Nepal
+
+---
+
+### Thanks for visiting my profile! ⭐
