@@ -1,7 +1,7 @@
 # Hi, I'm Ghyalpo Lama 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=BIT+Student;Aspiring+Full-Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=BIT+Student;Aspiring+Full-Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 Hey! I'm Ghyalpo, a BIT student from Kathmandu, Nepal. I enjoy building websites and applications, learning new technologies, and designing simple and user-friendly interfaces.
