@@ -77,13 +77,14 @@ Here are some of the projects I've built while learning and exploring web develo
 
 | Project                         | Description                                                                                   | Tech               |
 | ------------------------------- | --------------------------------------------------------------------------------------------- | ------------------ |
-| | 🎓 [**Online Learning Platform**](https://github.com/ghyl098/online-learning-platform-) | A learning platform for students with courses and educational resources. | Django / Python | [Live Demo](https://online-learning-platform-red.vercel.app/) |   |
+| 🎓 **Online Learning Platform** | A learning platform for students with courses and educational resources.                      | Django / Python    |
 | 🛒 **E-Commerce Website**       | An online shopping platform with product browsing and e-commerce features.                    | React / JavaScript |
 | 🎬 **Movie App**                | A movie-focused web application for exploring and displaying movie information.               | React / JavaScript |
 | ⚛️ **React Project**            | A frontend project built to practice modern React development and UI implementation.          | React / JavaScript |
 | 🏫 **Django Class**             | A Django-based project built while learning backend development and web application concepts. | Django / Python    |
 
 > 🚧 More projects and improvements coming soon.
+
 
 ---
 
